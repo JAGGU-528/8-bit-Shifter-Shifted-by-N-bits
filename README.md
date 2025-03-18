@@ -1,4 +1,3 @@
-# 8-bit-Shifter-Shifted-by-N-bits
 # 8-bit Shifter (Shift Left/Right by N-bits)
 
 ## Overview
