@@ -93,5 +93,4 @@ time=20: data_in=00110011 | shift_amount=2 | direction=1 ----- data_out=00001100
 - Implement barrel shifter logic for faster and efficient shifting.
 
 ## CONTRIBUTION
-JAGDISH BIRADAR 
-VIJAYLAXMI
+JAGDISH BIRADAR AND VIJAYLAXMI
