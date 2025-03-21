@@ -92,5 +92,6 @@ time=20: data_in=00110011 | shift_amount=2 | direction=1 ----- data_out=00001100
 - Add parameterized width for flexible bit-width shifting.
 - Implement barrel shifter logic for faster and efficient shifting.
 
-## Author
-JAGDISH BIRADAR
+## CONTRIBUTION
+JAGDISH BIRADAR 
+VIJAYLAXMI
